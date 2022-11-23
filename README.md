@@ -28,4 +28,4 @@ This repository stores all the codes used for the scientific paper entitled "Ada
 
 
 ## Hiring 🤝🏿
-
+If you wish to hire me, please contact me at the following e-mail address: luislasabills@gmail.com
