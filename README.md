@@ -22,5 +22,9 @@ This repository stores all the codes used for the scientific paper entitled **"A
 ## How to cite this scientific paper?
 Sánchez Aguilar, L. Ángel. (2022). Control por posicionamiento de polos adaptivo usando machine learning para motor DC con inercia variable. Ciencia Latina Revista Científica Multidisciplinar, 6(5), 925-943. https://doi.org/10.37811/cl_rcm.v6i5.3152
 
+## GUI Screenshots
+![image](https://user-images.githubusercontent.com/118120048/203473991-16981220-a48f-4b14-91a5-7d9f53365f7f.png)
+![image](https://user-images.githubusercontent.com/118120048/203474036-f180cbad-afdb-4089-a8f6-dfeecdc899fb.png)
+
 ## Hiring 🤝🏿
 If you wish to hire me, please contact me at the following e-mail address: luislasabills@gmail.com
