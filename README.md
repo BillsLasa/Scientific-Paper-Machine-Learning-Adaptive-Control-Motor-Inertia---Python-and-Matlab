@@ -11,18 +11,13 @@ This repository stores all the codes used for the scientific paper entitled **"A
 
 * **[Etapa1-Modelo_Referencia]**: This folder contains the Matlab code that simulates a DC motor as a reference model to which the motor should be adapted when the inertia varies. The folder stores the matlab code and the simulink file with the mathematical model of the motor.
 
-* **[Etapa2-Obtencion_Datos]**: This folder contains the code in python language, the images and audios necessary for the logic and communication of the spaceship videogame.
+* **[Etapa2-Obtencion_Dataset]**: This folder contains the Matlab code that obtains data from 2000 mathematical models of DC motors built in simulink that differ by a small variation in inertia. 
 
+* **[Etapa3-Entrenamiento_Validacion]**: This folder contains the Python code documented through Google Colab notebooks where 4 machine learning models are trained and validated. Specifically the algorithms are: polynomial regression, decision tree, random forest and support vector machine.
 
-## Main Files description 📘
+* **[Etapa4-Comparacion_Resultados]**: This folder contains the Python code documented through Google Colab notebooks where the validation behavior of the 4 machine learning models is graphically compared.
 
-* **[mando.c]**: This file contains the C language code of the PIC16877A microcontroller. It contains the logic and the communication parameters to connect to the spaceship videogame. It is necessary to clarify that it is thought for a Joystick connected by USB to a computer.
-
-* **[mando.hex]**: This file contains the C language code of "mando.c" translated to "machine" language for uploading directly to the microcontroller.
-
-* **[lcd.c]**: This file is the library used to control and manage an LCD display that is part of the Joystick.
-
-* **[videogame.py]**: This file contains the code in Python language that conforms the spaceship videogame as well as the communication parameters with the PIC microcontroller connected to the USB of the computer where it is running.
+* **[Etapa5-Implementacion]**: This folder contains an application made in Matlab AppDesigner that shows the behavior of the machine learning models under the current inertia of the DC motor.
 
 ## How to cite this scientific paper?
 Sánchez Aguilar, L. Ángel. (2022). Control por posicionamiento de polos adaptivo usando machine learning para motor DC con inercia variable. Ciencia Latina Revista Científica Multidisciplinar, 6(5), 925-943. https://doi.org/10.37811/cl_rcm.v6i5.3152
