@@ -24,9 +24,8 @@ This repository stores all the codes used for the scientific paper entitled **"A
 
 * **[videogame.py]**: This file contains the code in Python language that conforms the spaceship videogame as well as the communication parameters with the PIC microcontroller connected to the USB of the computer where it is running.
 
-## Screenshots 📷
-![image](https://user-images.githubusercontent.com/118120048/203212180-59966f94-339c-4292-8e6a-c7013863c891.png)
-
+## How to cite this scientific paper?
+Sánchez Aguilar, L. Ángel. (2022). Control por posicionamiento de polos adaptivo usando machine learning para motor DC con inercia variable. Ciencia Latina Revista Científica Multidisciplinar, 6(5), 925-943. https://doi.org/10.37811/cl_rcm.v6i5.3152
 
 ## Hiring 🤝🏿
 If you wish to hire me, please contact me at the following e-mail address: luislasabills@gmail.com
