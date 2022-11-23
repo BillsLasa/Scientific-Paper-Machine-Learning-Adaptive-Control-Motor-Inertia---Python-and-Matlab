@@ -9,9 +9,9 @@ This repository stores all the codes used for the scientific paper entitled **"A
 
 ## Folders description 📁
 
-* **[MICROCONTROLADOR]**: This folder contains the code in C language and the necessary libraries for the logic and communication of the joystick implemented with a PIC C microcontroller.
+* **[Etapa1-Modelo_Referencia]**: This folder contains the Matlab code that simulates a DC motor as a reference model to which the motor should be adapted when the inertia varies. The folder stores the matlab code and the simulink file with the mathematical model of the motor.
 
-* **[VIDEOJUEGO]**: This folder contains the code in python language, the images and audios necessary for the logic and communication of the spaceship videogame.
+* **[Etapa2-Obtencion_Datos]**: This folder contains the code in python language, the images and audios necessary for the logic and communication of the spaceship videogame.
 
 
 ## Main Files description 📘
