@@ -1,6 +1,6 @@
 # (Scientific Paper) Machine Learning Adaptive Control Motor Inertia - Python and Matlab 
 
-This repository stores all the codes used for the scientific paper entitled "Adaptive Pole Positioning Control using Machine Learning for DC Motor with Variable Inertia". It consists of python and matlab codes that were used to simulate 2000 different DC motors, obtain the necessary data and train 4 supervised machine learning models for regression, with the objective of creating a control element that regulates the speed of the motor when inertia changes. For more details, please visit my scientific paper: https://doi.org/10.37811/cl_rcm.v6i5.3152
+This repository stores all the codes used for the scientific paper entitled *"Adaptive Pole Positioning Control using Machine Learning for DC Motor with Variable Inertia"*. It consists of python and matlab codes that were used to simulate 2000 different DC motors, obtain the necessary data and train 4 supervised machine learning models for regression, with the objective of creating a control element that regulates the speed of the motor when inertia changes. For more details, please visit my scientific paper: https://doi.org/10.37811/cl_rcm.v6i5.3152
 
 ## Author 👤
 **Luis Ángel Sánchez Aguilar**
